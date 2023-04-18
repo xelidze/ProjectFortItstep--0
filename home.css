@@ -1,0 +1,235 @@
+#Header{
+    display: flex;
+    height: 19%;
+    justify-content: space-around;
+    box-shadow: 2px 1px 2px 1px gray;
+    margin-bottom: 5px;
+    background-image: linear-gradient(rgb(255 0 0 / 20%),white);
+}
+#HeaderTxt{
+    width: 29%;
+    height: 85%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #4A99D3;
+    font-size: 27px;
+}
+#HeaderRDS{
+    display: flex;
+    width: 24%;
+    height: 76%;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#RegisteradnLogin{
+    width: 48%;
+    display: flex;
+    height: 30%;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#Sell{
+    display: flex;
+    align-items: center;
+    width: 37%;
+    color: black;
+}
+#SearchBArConteiner{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    height: 51%;
+}
+#SearchIMG{
+    background-color:#EAF6FF ;
+}
+#IMGS{
+    height: 114%;
+}
+#SearchTXTandSearch{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #EAF6FF;
+    width: 45%;
+    align-items: stretch;
+}
+#SearchTxt{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 30px;
+}
+
+#Search{
+    border-style: solid;
+    border-radius: 26px;
+    border-color: #FC0B0D;
+    border-width: 1px;
+    display: flex;
+    justify-content: start;
+    height: 17%;
+    margin-top: 40px;
+}
+#IMGSe{
+    display: flex;
+    align-items: center;
+    width: 16%;
+}
+#InputSe{
+    border: none;
+    outline: none;
+    background-color:  #EAF6FF;
+}
+#IMGSe1{
+    display: flex;
+    width: 52%;
+    justify-content: flex-end;
+    align-items: center;
+}
+#IMgS{
+    height: 57%;
+}
+#SearchAll{
+    display: flex;
+    width: 82%;
+    justify-content: space-between;
+    height: 100%;
+    background-color: #EAF6FF;
+    border-radius: 10px;
+}
+/*  */
+#CenterConteiner{
+    height: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+#UsedNew{
+    display: flex;
+    height: 54%;
+    box-shadow: 1px 1px 1px 1px #F5F5F5;
+    flex-direction: row;
+    width: 36%;
+}
+#ButtTx{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 53%;
+}
+#Services{
+         width: 36%;
+        display: flex;
+        height: 54%;
+        flex-direction: row;
+        box-shadow: 1px 1px 1px 1px #F5F5F5;
+}
+#Text1{
+    font-size: x-large;
+}
+#Text2{
+    display: flex;
+    width: 44%;
+    height: 42%;
+    align-items: center;
+}
+#ButtDiv{
+    background-color: #FC0B0D;
+    color: black;
+    border-radius: 4px;
+}
+#ColectionDiv{
+    height: 200%;
+    width: 100%;
+}
+#ColectionManager{
+    height: 100%;
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+#FirstColection{
+    height: 15%;
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+#Meza{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 1px 1px 1px 1px #F5F5F5;
+    height: 100%;
+    width: 19%;
+}
+#TxtMez{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    height: 30%;
+}
+#Price{
+    align-items: center;
+    display: flex;
+    height: 48%;
+    justify-content: space-between;
+}
+#ImgColection{
+    width: 14%;
+}
+#Time{
+    display: flex;
+    height: 25%;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+    font-size: 11px;
+}
+#SecondColection{
+    height: 100%;
+    display: flex;
+    width: 100%;
+    align-items: self-start;
+    justify-content: space-evenly;
+}
+/*  */
+#ViewMore{
+    height: 22%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#Button{
+    height: 100%;
+    align-items: center;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+#Shadow{
+    display: flex;
+    width: 32%;
+    box-shadow: 0px 0px 0px 1px gray;
+}
+#View{
+    border-radius: 9px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 29.8267px;
+    line-height: 36px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    border-color: red;
+    background: none;
+    font-family: 'Roboto Slab', serif;
+}
+

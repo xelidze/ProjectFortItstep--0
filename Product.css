@@ -1,0 +1,124 @@
+#ProductDiv{
+    width: 100%;
+    display: flex;
+    height: 90%;
+    justify-content: center;
+    align-items: center;
+}
+#Product{
+    background: #FAFBFC;
+    display: flex;
+    width: 80%;
+    height: 92%;
+}
+#Left{
+    height: 100%;
+    display: flex;
+    width: 50%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+#ProductImg{
+    height: 60%;
+    width: 85%;
+}
+#Right{
+    height: 100%;
+    display: flex;
+    width: 50%;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+#ProductTxt1{
+    flex-direction: column;
+    align-items: flex-start;
+    height: 15%;
+    display: flex;
+    width: 50%;
+    justify-content: space-between;
+}
+#ProductName{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 38px;
+    color: #000000;
+}
+#PriceForTxt{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 38px;
+    color: red;
+}
+#GreenText{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    color: #50CC98;
+    height: 9%;
+}
+#Txt0{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 27%;
+}
+#text1{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #000000;
+}
+#Text0{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 21px;
+    letter-spacing: 0.02em;
+    color: #000000;
+    width: 100%;
+}
+#Bottom{
+    width: 91%;
+    display: flex;
+    flex-direction: column;
+}
+#useR{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 32px;
+    color: #18191F;
+}
+#BottomImg{
+    display: flex;
+    align-items: center;
+    width: 26%;
+    justify-content: space-between;
+}
+#BotTxt1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 32px;
+    color: #18191F;
+}
+#BotTxt3{
+    justify-content: space-between;
+    display: flex;
+    width: 90%;
+}
